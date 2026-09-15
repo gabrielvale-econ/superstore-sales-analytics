@@ -37,7 +37,7 @@ Main indicators and analyses:
 - Sales by Category
 - Top 10 Products by Sales
 
-![Overview Dashboard](images/Overview_Dashboard_Superstore_page_1.jpg)
+![Overview Dashboard](superstore-sales-analytics/images/Overview_Dashboard_Superstore_page_1.jpg)
 
 ### 2. Customers & Segments
 
@@ -54,7 +54,7 @@ Main analyses:
 - Customer Distribution by Segment
 - Sales by Segment
 
-![Customers Dashboard](images/Customers_Dashboard_Superstore_page_2.jpg)
+![Customers Dashboard](superstore-sales-analytics/images/Customers_Dashboard_Superstore_page_2.jpg)
 
 ### 3. Products & Categories
 
@@ -72,7 +72,7 @@ Main analyses:
 - Sales by Category
 - Detailed Category and Product Sales Matrix
 
-![Products Dashboard](images/Products_Dashboard_Superstore_page_3.jpg)
+![Products Dashboard](superstore-sales-analytics/images/Products_Dashboard_Superstore_page_3.jpg)
 
 ### 4. Operations & Logistics
 
@@ -89,7 +89,7 @@ Main indicators and analyses:
 - Orders by Shipping Method
 - Average Shipping Days by Shipping Method
 
-![Operations Dashboard](images/Operations_Dashboard_Superstore_page_4.jpg)
+![Operations Dashboard](superstore-sales-analytics/images/Operations_Dashboard_Superstore_page_4.jpg)
 
 ## Tools
 
